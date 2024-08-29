@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+canvas {
+  border: 2px solid rgba(15, 15, 15, 0.773);
+  border-radius: 5px;
+  cursor: crosshair;
+}
+
+#reset {
+  margin-top: 10px;
+  margin-left: 5px;
+}
